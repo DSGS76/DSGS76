@@ -42,6 +42,14 @@ Systems Engineering student focused on backend development with **Java** and **S
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSGS76&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/DSGS76">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DSGS76&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DSGS76&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  </a>
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSGS76&layout=compact&theme=radical)
