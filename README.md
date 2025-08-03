@@ -69,12 +69,7 @@ I'm a Systems Engineering student focused on backend development with **Java** a
 
 💼 Explore my repositories to see my work.
 <p align="left">
-  <a href="https://github.com/DSGS76" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DSGS76-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://discordapp.com/users/DSGS76" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DSGS76-181717?style=for-the-badge&logo=discord" alt="Discord"/>
-  </a>
+<a href="https://github.com/DSGS76" target="_blank"><img src="https://img.shields.io/badge/GitHub-DSGS76-181717?style=for-the-badge&logo=github" alt="GitHub"/</a><a href="https://discordapp.com/users/DSGS76" target="_blank"><img src="https://img.shields.io/badge/Discord-DSGS76-5865F2?style=for-the-badge&logo=discord" alt="Discord"/></a>
 </p>
 
 ---
