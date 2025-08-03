@@ -1,6 +1,6 @@
 <!-- Animated gradient header with typing effect and waving hand -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C6FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Duvan+Gil+Systems+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C6FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Duvan+Gil;Systems+Engineering+Student" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving hand animation" />
