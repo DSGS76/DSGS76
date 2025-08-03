@@ -52,6 +52,6 @@ Systems Engineering student focused on backend development with **Java** and **S
   </a>
   <br>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSGS76&layout=compact&theme=algoria" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSGS76&layout=compact&theme=algolia" />
   </a>
 </div>
