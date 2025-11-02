@@ -21,6 +21,10 @@ I'm a Systems Engineering student focused on backend development with **Java** a
 <table>
   <tr>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
       <br><b>Java</b>
     </td>
